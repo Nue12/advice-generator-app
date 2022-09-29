@@ -19,8 +19,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub/advice-generator-app-using-react-and-api-2RdaNzO3oM)
+- Live Site URL: [Add live site URL here](https://nue-advice-generator-app.netlify.app/)
 - Advice quote API: [Advice Slip API](https://api.adviceslip.com)
 
 ## Author
